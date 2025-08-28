@@ -1,5 +1,5 @@
 # Azure Landing Zones
-Getting Started with Cloud Compute
+Getting Started with Azure Landing Zones
 
 ![alt text](https://raw.githubusercontent.com/danielecolon/Azure-Landing-Zones/refs/heads/main/ALZ.png)
 
