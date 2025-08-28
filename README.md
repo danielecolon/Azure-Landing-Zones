@@ -1,7 +1,7 @@
 # Azure Landing Zones
 Getting Started with Cloud Compute
 
-![alt text](https://raw.githubusercontent.com/danielecolon/Azure-LandingZones/refs/heads/main/ALZ.png)
+![alt text](https://raw.githubusercontent.com/danielecolon/Azure-Landing-Zones/refs/heads/main/ALZ.png)
 
 ## Details
 This presentation provides a high-level overview of how to design and implement a secure, scalable, and compliant landing zone for deploying AI workloads on Microsoft Azure. Whether you're exploring Cognitive Services, Azure Machine Learning, or other AI capabilities, a well-architected landing zone is essential for operational efficiency, governance, and innovation.
